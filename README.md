@@ -32,7 +32,7 @@ The application will have customer accounts. Each account has:
 1. <b>A unique email for the customer</b>: RegEx is used to check that the email is in the correct format (i.e., name@domain.com).
 2. <b>A first name and last name</b>.
 3. The email RegEx is simple for the purpose of this exercise and may not cover all real-world valid emails. 
-> For example "name@domain.co.uk" would not be accepted by the above RegEx because it does end with ".com". If you would like to try to make your RegEx more sophisticated, you may—but it is not required for this project.
+> For example "name@domain.com" would not be accepted by the above RegEx because it does end with ".com". If you would like to try to make your RegEx more sophisticated, you may—but it is not required for this project.
 
 ### Error Requirements
 The hotel reservation application handles all exceptions gracefully (user inputs included), meaning:
