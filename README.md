@@ -1,5 +1,5 @@
 # Hotel Reservation - A Java project for hotel reservation management
-This is a Project of Udacity's [Java](https://www.java.com/) Java Programming course. The project's objective is to build a "Hotel Reservation Application", covering the fundamentals of the Java programming language.
+This is a Project of [Udacity]([https://www.java.com/](https://www.udacity.com/)) Java Programming course. The project's objective is to build a "Hotel Reservation Application", covering the fundamentals of the Java programming language.
 ## Project Requirements:
 
 ### User Scenarios
