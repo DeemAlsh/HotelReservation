@@ -41,9 +41,6 @@ The hotel reservation application handles all exceptions gracefully (user inputs
 2. <b>No unhandled exceptions</b>: The app has try and catch blocks that are used to capture exceptions and provide useful information to the user. There are no unhandled exceptions.
 
 
-## Authors
-- [Sandro Sacher](https://github.com/J3ossy)
-
 ## Built with
 - [Java](https://www.java.com/) - The programming language used
 
